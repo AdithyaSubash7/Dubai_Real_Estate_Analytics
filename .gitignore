@@ -1,0 +1,9 @@
+   *.csv
+   cleaned/
+   tableau_data/
+   __pycache__/
+   *.pyc
+   .env
+   .DS_Store
+   Thumbs.db
+   .vscode/
